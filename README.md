@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/three-column-preview-card-Xjapb9MM_g)
+- Live Site URL: [Live site](https://three-column-preview-card-nine.vercel.app/)
 
 ## My process
 
